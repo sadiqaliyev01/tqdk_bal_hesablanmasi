@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'package:collection/collection.dart';
 
 void main() {
    Map <String, List<num>> subjects = {
